@@ -3,7 +3,6 @@ The `img2desmos` library allows you to convert images into Desmos-style pixel ar
 
 ## Installation
 
-To use the Voice Message Sender files, follow these steps:
 
 ```bash
 git clone https://github.com/kaitlek/img2desmos.git # or download the zip with the "Code" button above
